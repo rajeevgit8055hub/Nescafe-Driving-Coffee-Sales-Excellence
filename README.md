@@ -1,4 +1,4 @@
-## ☕Nescafe-Driving-Coffee-Sales-Excellence
+## ☕Nescafe – Driving Coffee Sales Excellence
 
 ## ☕ Why Nescafe?
 Nescafe is a global leader in coffee innovation and retail excellence, trusted by millions worldwide.  
@@ -147,10 +147,11 @@ This project solves them with a **centralized, visual-first dashboard**.
 ## 🖼️ Dashboard Snapshots
 
 ### Final Dashboard Preview   
-![Nescafe – Coffee Sales Excellence]("Nescafe – Coffee Sales Excellence.png")
+![Nescafe – Coffee Sales Excellence](Nescafe%20%E2%80%93%20Coffee%20Sales%20Excellence.png)
+
 
 ### Project Overview  
-![Nescafe – Coffee Sales Excellence]("Nescafe – Coffee Sales Excellence1.png")
+![Nescafe – Coffee Sales Excellence](Nescafe%20%E2%80%93%20Coffee%20Sales%20Excellence1.png)
 
 ---
 

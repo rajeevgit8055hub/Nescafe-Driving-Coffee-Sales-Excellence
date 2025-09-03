@@ -191,7 +191,7 @@ This project solves them with a **centralized, visual-first dashboard**.
  
 ## <span id="dashboard-snapshots">🖼️ Dashboard Snapshots</span>  
 
-### Final Dashboard Preview   
+### Final Dashboard   
 ![Nescafe – Coffee Sales Excellence](Nescafe%20%E2%80%93%20Coffee%20Sales%20Excellence.png)
 
 ### Project Overview  

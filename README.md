@@ -1,6 +1,28 @@
-## ☕Nescafe – Driving Coffee Sales Excellence
+## ☕ Nescafe – Driving Coffee Sales Excellence
 
-## ☕ Why Nescafe?
+
+## 📑 Table of Contents
+
+- <a href="#why-nescafe">☕ Why Nescafe?</a>  
+- <a href="#project-overview">🧩 Project Overview</a>  
+- <a href="#project-context">🏢 Project Context</a>  
+- <a href="#key-considerations">🧠 Key Considerations</a>  
+- <a href="#project-objectives">🎯 Project Objectives</a>  
+- <a href="#target-audience">👥 Target Audience</a>  
+- <a href="#problems-solutions">🛑 Business Problems & ✅ Solutions</a>  
+- <a href="#features-insights">💡 Key Features & Visual Insights</a>  
+- <a href="#life-cycle-workflow">📚 Project Lifecycle & Workflow</a>  
+- <a href="#business-takeaways">📈 Key Business Takeaways</a>  
+- <a href="#tools-technologies">🧰 Tools & Technologies Used</a>  
+- <a href="#strategic-recommendations">🚀 Strategic Recommendations</a>
+- <a href="#future-scope">🔮 Future Scope</a> 
+- <a href="#contact">📬 Connect with Me</a>
+- <a href="#dashboard-snapshots">🖼️ Dashboard Snapshots</a> 
+
+---
+
+## <span id="why-nescafe">☕ Why Nescafe?</span>  
+
 Nescafe is a global leader in coffee innovation and retail excellence, trusted by millions worldwide.  
 This BI project demonstrates how **data-driven insights** can transform coffee retail operations, product strategies, and customer engagement.  
 
@@ -13,7 +35,8 @@ The dashboard consolidates **sales performance for April 2023**, integrating:
 
 ---
 
-## 🧩 Project Overview
+## <span id="project-overview">🧩 Project Overview</span>  
+
 This **BI solution (Power BI/Tableau)** provides real-time visibility into Nescafe’s sales operations.  
 It integrates **product sales, store-level analysis, and customer behavior** into a single platform.  
 
@@ -26,7 +49,8 @@ It integrates **product sales, store-level analysis, and customer behavior** int
 
 ---
 
-## 🏢 Project Context
+## <span id="project-context">🏢 Project Context</span>  
+
 Retail coffee businesses face challenges such as:  
 
 - Identifying **peak demand windows** for staffing & promotions  
@@ -38,7 +62,8 @@ This project solves them with a **centralized, visual-first dashboard**.
 
 ---
 
-## 🧠 Key Considerations
+## <span id="key-considerations">🧠 Key Considerations</span>  
+
 - **Transaction Volume**: 118.94K sales analyzed *(April 2023)*  
 - **Peak Demand Hours**: 7 AM – 11 AM & evening slots  
 - **Category Contributions**: Coffee dominates, followed by Tea, Bakery, Chocolate  
@@ -47,7 +72,8 @@ This project solves them with a **centralized, visual-first dashboard**.
 
 ---
 
-## 🎯 Project Objectives
+## <span id="project-objectives">🎯 Project Objectives</span>  
+
 1. **Visualize Product Performance** – Coffee, Tea, Bakery, Packaged Goods  
 2. **Analyze Store Contributions** – Revenue share by location  
 3. **Understand Customer Behavior** – Hourly, daily, weekday/weekend splits  
@@ -55,7 +81,8 @@ This project solves them with a **centralized, visual-first dashboard**.
 
 ---
 
-## 👥 Target Audience
+## <span id="target-audience">👥 Target Audience</span>  
+
 - 🎯 **Strategic Leadership** – Monitor regional sales growth  
 - 📊 **Category Managers** – Optimize product mix  
 - 🏪 **Store & Operations Managers** – Staffing & inventory planning  
@@ -63,14 +90,15 @@ This project solves them with a **centralized, visual-first dashboard**.
 
 ---
 
-## 🛑 Business Problems & ✅ Solutions
+## <span id="problems-solutions">🛑 Business Problems & ✅ Solutions</span>  
+
 ❌ Limited store-level visibility → ✅ Unified benchmarking dashboard  
 ❌ Unclear demand fluctuations → ✅ Granular hourly/daily demand heatmaps  
 ❌ Poor product contribution tracking → ✅ Category-level insights  
 
 ---
 
-## 💡 Key Features & Visual Insights
+## <span id="features-insights">💡 Key Features & Visual Insights</span>  
 
 ### 📊 Visuals Included
 
@@ -92,6 +120,7 @@ This project solves them with a **centralized, visual-first dashboard**.
 ---
 
 ## 🧮 Interactivity & Filters
+
 - Month/Year  
 - Store Location  
 - Product Category & Type  
@@ -101,7 +130,8 @@ This project solves them with a **centralized, visual-first dashboard**.
 
 ---
 
-## 📚 Project Lifecycle & Workflow
+## <span id="life-cycle-workflow">📚 Project Lifecycle & Workflow</span>  
+
 1. 📥 **Data Collection** – Sales extracted from POS (Excel/CSV)  
 2. 🧹 **Data Cleaning** – Null removal, category formatting  
 3. 🧩 **Data Modeling** – Star schema (Store, Product, Time, Category)  
@@ -110,7 +140,8 @@ This project solves them with a **centralized, visual-first dashboard**.
 
 ---
 
-## 📈 Key Business Takeaways
+## <span id="business-takeaways">📈 Key Business Takeaways</span>  
+
 - ☕ Coffee dominates → invest in premium brews & espresso lines  
 - 🏢 Hell’s Kitchen outperforms → model for expansion  
 - ⏰ Strongest window: 7–11 AM → commuter campaigns  
@@ -118,7 +149,8 @@ This project solves them with a **centralized, visual-first dashboard**.
 
 ---
 
-## 🧰 Tools & Technologies Used
+## <span id="tools-technologies">🧰 Tools & Technologies Used</span>  
+
 | Tool / Tech          | Purpose                              |
 |----------------------|--------------------------------------|
 | **Power BI / Tableau** | Dashboard design & analytics        |
@@ -128,7 +160,8 @@ This project solves them with a **centralized, visual-first dashboard**.
 
 ---
 
-## 🚀 Strategic Recommendations
+## <span id="strategic-recommendations">🚀 Strategic Recommendations</span>  
+
 - 📍 **Store Strategy** – Expand Hell’s Kitchen model  
 - ☕ **Product Mix** – Focus on premium espresso & brews  
 - 🗓️ **Weekend Promotions** – Discounts to boost weaker weekends  
@@ -136,7 +169,8 @@ This project solves them with a **centralized, visual-first dashboard**.
 
 ---
 
-## 🔮 Future Scope
+## <span id="future-scope">🔮 Future Scope</span>  
+
 - 📡 Real-time POS integration  
 - 📱 Mobile dashboards for managers  
 - 📊 Predictive analytics for seasonal demand  
@@ -144,11 +178,21 @@ This project solves them with a **centralized, visual-first dashboard**.
 
 ---
 
-## 🖼️ Dashboard Snapshots
+## <span id="contact">📬 Connect with Me</span>  
+
+- 📧 **Email**: [rajeevtiwari8055@gmail.com](mailto:rajeevtiwari8055@gmail.com)  
+- 💻 **GitHub**: [github.com/rajeevgit8055hub](https://github.com/rajeevgit8055hub)  
+- 🔗 **LinkedIn**: [linkedin.com/in/rajeev-tiwari123](https://www.linkedin.com/in/rajeev-tiwari123)  
+- 🌐 **Website**: [rajeevgit8055hub.github.io/rajeevtiwari.github.io](https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/)  
+
+🤝 *Thanks for visiting my profile!*  
+
+---
+ 
+## <span id="dashboard-snapshots">🖼️ Dashboard Snapshots</span>  
 
 ### Final Dashboard Preview   
 ![Nescafe – Coffee Sales Excellence](Nescafe%20%E2%80%93%20Coffee%20Sales%20Excellence.png)
-
 
 ### Project Overview  
 ![Nescafe – Coffee Sales Excellence](Nescafe%20%E2%80%93%20Coffee%20Sales%20Excellence1.png)
